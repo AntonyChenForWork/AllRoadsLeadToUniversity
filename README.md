@@ -1,6 +1,6 @@
-# roadtouniversity2
+# AllRoadsLeadToUniversity
 
-A new Flutter application.
+A real-time transportation time table APP with information of Taiwan Universities
 
 ## Getting Started
 
